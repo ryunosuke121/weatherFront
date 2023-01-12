@@ -1,0 +1,20 @@
+export const dummyDatas = [
+    {
+        name:"日産自動車",
+        twitterId:"@NissanJP",
+        note:"自社アカウント",
+        type:0,
+    },
+    {
+        name:"MAZDA",
+        twitterId:"@MAZDAJP",
+        note:"他社アカウント",
+        type:1,
+    },
+    {
+        name:"HONDA",
+        twitterId:"@HONDAJP",
+        note:"他社アカウント",
+        type:1,
+    }
+]
